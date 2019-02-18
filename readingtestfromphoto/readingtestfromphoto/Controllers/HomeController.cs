@@ -13,6 +13,7 @@ namespace readingtestfromphoto.Controllers
 
         public ActionResult Index()
         {
+            //////////////////////////
             return View();
         }
 
